@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "interstitialJournal/2024/2024-11-25.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2024-11-25"
             }
           }
         ]
@@ -178,11 +182,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Vault Goals.md",
     "interstitialJournal/2024/2024-11-25.md",
     "codenames/Testing.md",
-    "Vault Goals.md",
     "codenames",
-    "Homepage.md",
     "interstitialJournal/2024/2024-11-24.md",
     "interstitialJournal/YYYY/YYYY-11-Nov 24, 2024.md",
     "interstitialJournal/YYYY",

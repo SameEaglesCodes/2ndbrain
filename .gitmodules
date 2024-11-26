@@ -1,6 +1,8 @@
 [submodule "codenames"]
 	path = codenames
 	url = https://github.com/SameEaglesCodes/codenames.git
+	branch = main
 [submodule "interstitialJournal"]
 	path = interstitialJournal
 	url = https://github.com/SameEaglesCodes/interstitialJournal.git
+	branch = main
